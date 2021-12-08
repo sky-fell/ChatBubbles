@@ -1,4 +1,7 @@
 .vs/
+.idea/
+packages/
 bin/
 obj/
-.idea/
+Publish/
+Publish
